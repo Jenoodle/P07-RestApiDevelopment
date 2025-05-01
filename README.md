@@ -15,7 +15,7 @@
 ![03- Post Book](Screenshot/latihan04/postman-postbook.png)
 
 ### 4. Put Book (Edit)
-![04- Put Book]([img/L04/04-PutBook.png](https://github.com/Jenoodle/P07-RestApiDevelopment/blob/main/Screenshot/latihan04/postman-editbook.png)
+![04- Put Book]([img/L04/04-PutBook.png](Screenshot/latihan04/postman-editbook.png)
 
 ### 5. Delete Book (Hapus)
 ![05- Delete Book](Screenshot/latihan04/postman-deletebook.png)<br><br>
