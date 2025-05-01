@@ -2,4 +2,4 @@
 P07 Latihan &amp; Tugas
 
 
-![alt text] (https://github.com/Jenoodle/P07-RestApiDevelopment/tree/main/Screenshot?raw=true)
+![alt text] (https://github.com/Jenoodle/P07-RestApiDevelopment/blob/main/Screenshot/Tugas/menambahkan%20data.png?raw=true)
