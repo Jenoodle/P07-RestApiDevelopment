@@ -21,37 +21,37 @@
 ![05- Delete Book](Screenshot/latihan04/postman-deletebook.png)<br><br>
 
 # **_Latihan 05 - Menampilkan tampilan GUI - menambahkan data di Postman_**
-![01- Tampilan GUI dan Postman](Screenshot/latihan05/menambahkandatadipostman.png)<br><br>
+![01- Tampilan GUI](Screenshot/latihan05/menambahkan-data-di-postman.png)<br><br>
 
 # **_Latihan 06 - Tombol Refresh_**
 ### 1. Get Book - Sebelum meng-input data
 ![01-Get Book](Screenshot/latihan06/tombol-refresh.png)
 
 ### 2. Get Book - Setelah input data dan melakukan Refresh di-GUI
-![01-Get Book-After Post](Screenshot/latihan06/setelahdirefresh.png)<br><br>
+![01-Get Book-After Post](Screenshot/latihan06/setelah-di-refresh.png)<br><br>
 
 # **_Latihan 07 - Input data di GUI_**
 ### 1. Tampilan GUI - Sebelum meng-input data
-![01-GUI before Post](img/L07/01-GUI-SebelumInputData.png)
+![01-GUI before Post](img/L07/01-GUI-Sebelum-Input-Data.png)
 
 ### 2. Tampilan GUI - Input data di GUI
-![02-GUI Post](Screenshot/latihan07/sebelummenambahdata.png)
+![02-GUI Post](Screenshot/latihan07/sebelum-menambah-data.png)
 
 ### 3. Get Books - Setelah data berhasill ditambahkan dari GUI
-![05-Postman After Post](Screenshot/latihan07/bukuberhasilditambahkan.png)
+![05-Postman After Post](Screenshot/latihan07/buku-berhasil-ditambahkan.png)
 
 ### 4. Get Books - Setelah data ditambahkan dari GUI
-![06-GUI dan Postman After Post](Screenshot/latihan07/hasilsetelahditambahkan.png)<br><br>
+![06-GUI dan Postman After Post](Screenshot/latihan07/hasil-setelah-ditambahkan.png)<br><br>
 
-# **_TUGAS - Tombol Edit dan Delete_**
+# **_TUGAS - Edit dan Delete_**
 ### 1. Tampilan GUI - Semua data telah di-input
 ![01-GUI After Posts](Screenshot/Tugas/GUI.png)
 
 ### 2. Get Books - Menambahkan Data
-![02-Get Books](Screenshot/Tugas/menambahkandata.png)
+![02-Get Books](Screenshot/Tugas/menambahkan-data.png)
 
 ### 3. Edit Book - Mengedit data dan tombol Edit untuk save perubahan
-![04-Edit Data](Screenshot/Tugas/tampilansebelumedit.png)
+![04-Edit Data](Screenshot/Tugas/tampilan-sebelum-edit.png)
 
 ### 4. Tampilan GUI Setelah Edit Book
 ![05-Gui After Edit](Screenshot/Tugas/tampilansetelahdiedit.png)
