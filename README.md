@@ -45,7 +45,7 @@
 
 # **_TUGAS - Edit dan Delete_**
 ### 1. Tampilan GUI - Semua data telah di-input
-![01-GUI After Posts](Screenshot/Tugas/GUI.png)
+![01-GUI After Posts](Screenshot/latihan07/sebelum-menambah-data.png)
 
 ### 2. Get Books - Menambahkan Data
 ![02-Get Books](Screenshot/Tugas/menambahkan-data.png)
