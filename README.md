@@ -31,8 +31,8 @@
 ![01-Get Book-After Post](Screenshot/latihan06/setelah-di-refresh.png)<br><br>
 
 # **_Latihan 07 - Input data di GUI_**
-### 1. Tampilan GUI - Sebelum meng-input data
-![01-GUI before Post](img/L07/01-GUI-Sebelum-Input-Data.png)
+### 1. Tampilan GUI - Sebelum Input data
+![01-GUI before Post](Screenshot/latihan07/sebelum-menambah-data.png)
 
 ### 2. Tampilan GUI - Input data di GUI
 ![02-GUI Post](Screenshot/latihan07/sebelum-menambah-data.png)
