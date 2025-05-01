@@ -57,5 +57,5 @@
 ![05-Gui After Edit](Screenshot/Tugas/tampilansetelahdiedit.png)
 
 ### 5. Tampilan Delete Book - Tampilan Setelah Dihapus
-![07-Delete Book](Screenshot/Tugas/tampilan setelah dihapus.png)
+![07-Delete Book](Screenshot/Tugas/tampilan-setelah-dihapus.png)
 
